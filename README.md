@@ -1,2 +1,7 @@
-# IWannaBeTheKing
-Action party game where you played as a selfish adventurer who wants to become the only one hero of the city
+# I Wanna Be The King
+
+Action party game.
+
+- Unity : 6000.6.7f1
+- Projet à ouvrir : `IWBTK_Project`
+- Pitch : [IWBTK_Documentation/PITCH.md](IWBTK_Documentation/PITCH.md)
